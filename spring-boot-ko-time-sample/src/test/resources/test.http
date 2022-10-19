@@ -1,0 +1,8 @@
+####
+GET localhost:8080/test/aInsert
+
+###
+POST localhost:8080/test/cUpdate
+
+###
+GET localhost:8080/test/bDelete
